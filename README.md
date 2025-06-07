@@ -43,5 +43,4 @@ This analysis helps build an intuitive understanding of how different features i
 
 ---
 
-Let me know if you'd like a similar version for Task-03 or need help preparing the Jupyter notebook.
 
